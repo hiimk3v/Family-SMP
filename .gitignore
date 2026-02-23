@@ -1,3 +1,6 @@
+.gitignore
+.gitattributes
+.git
 .mixin.out/
 crash-reports/
 data/
