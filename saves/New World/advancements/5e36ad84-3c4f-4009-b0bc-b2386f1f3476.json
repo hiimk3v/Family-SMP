@@ -1,0 +1,240 @@
+{
+  "mcwfences:recipes/dark_oak": {
+    "criteria": {
+      "has_dark_oak": "2026-02-22 16:18:29 -0600"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/crimson": {
+    "criteria": {
+      "has_crimson": "2026-02-22 16:18:29 -0600"
+    },
+    "done": true
+  },
+  "create:root": {
+    "criteria": {
+      "0": "2026-02-22 16:18:29 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2026-02-22 16:18:29 -0600"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/jungle": {
+    "criteria": {
+      "has_jungle": "2026-02-22 16:18:29 -0600"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/warped": {
+    "criteria": {
+      "has_warped": "2026-02-22 16:18:29 -0600"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/metal": {
+    "criteria": {
+      "has_deepslate": "2026-02-22 16:18:29 -0600"
+    },
+    "done": true
+  },
+  "trainutilities:door_ingrediants": {
+    "criteria": {
+      "0": "2026-02-22 16:18:29 -0600"
+    },
+    "done": true
+  },
+  "trainutilities:doors": {
+    "criteria": {
+      "0": "2026-02-22 16:18:29 -0600"
+    },
+    "done": true
+  },
+  "brewinandchewin:main/root": {
+    "criteria": {
+      "beer": "2026-02-22 16:18:29 -0600"
+    },
+    "done": true
+  },
+  "betterdungeons:root": {
+    "criteria": {
+      "always": "2026-02-22 16:18:29 -0600"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/birch": {
+    "criteria": {
+      "has_birch": "2026-02-22 16:18:29 -0600"
+    },
+    "done": true
+  },
+  "farm_and_charm:main/find_wild_crops": {
+    "criteria": {
+      "wild_strawberry": "2026-02-22 16:18:29 -0600",
+      "oat": "2026-02-22 16:18:29 -0600",
+      "onion": "2026-02-22 16:18:29 -0600",
+      "corn": "2026-02-22 16:18:29 -0600",
+      "wild_ribwort": "2026-02-22 16:18:29 -0600",
+      "wild_corn": "2026-02-22 16:18:29 -0600",
+      "strawberry": "2026-02-22 16:18:29 -0600",
+      "wild_nettle": "2026-02-22 16:18:29 -0600",
+      "barley": "2026-02-22 16:18:29 -0600",
+      "tomato": "2026-02-22 16:18:29 -0600",
+      "lettuce": "2026-02-22 16:18:29 -0600",
+      "wild_tomatoes": "2026-02-22 16:18:29 -0600",
+      "wild_lettuce": "2026-02-22 16:18:29 -0600",
+      "oat_seeds": "2026-02-22 16:18:29 -0600",
+      "strawberry_seeds": "2026-02-22 16:18:29 -0600",
+      "tomato_seeds": "2026-02-22 16:18:29 -0600",
+      "barley_seeds": "2026-02-22 16:18:29 -0600",
+      "lettuce_seeds": "2026-02-22 16:18:29 -0600",
+      "kernels": "2026-02-22 16:18:29 -0600",
+      "wild_barley": "2026-02-22 16:18:29 -0600",
+      "wild_onion": "2026-02-22 16:18:29 -0600",
+      "wild_oat": "2026-02-22 16:18:29 -0600"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/stone": {
+    "criteria": {
+      "has_stone": "2026-02-22 16:18:29 -0600"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/sandstone": {
+    "criteria": {
+      "has_sand": "2026-02-22 16:18:29 -0600"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/acacia": {
+    "criteria": {
+      "has_acacia": "2026-02-22 16:18:29 -0600"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/oak": {
+    "criteria": {
+      "has_oak": "2026-02-22 16:18:29 -0600"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/hedge": {
+    "criteria": {
+      "has_birch": "2026-02-22 16:18:29 -0600"
+    },
+    "done": true
+  },
+  "trainutilities:incomplete_prototype_door": {
+    "criteria": {
+      "0": "2026-02-22 16:18:29 -0600"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/cherry": {
+    "criteria": {
+      "has_cherry": "2026-02-22 16:18:29 -0600"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/prismarine": {
+    "criteria": {
+      "has_qq": "2026-02-22 16:18:29 -0600"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/quartz": {
+    "criteria": {
+      "has_qq": "2026-02-22 16:18:29 -0600"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/mangrove": {
+    "criteria": {
+      "has_mangrove": "2026-02-22 16:18:29 -0600"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/nether": {
+    "criteria": {
+      "has_nether_brick": "2026-02-22 16:18:29 -0600"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/bamboo": {
+    "criteria": {
+      "has_bamboo": "2026-02-22 16:18:29 -0600"
+    },
+    "done": true
+  },
+  "create_enchantment_industry:root": {
+    "criteria": {
+      "0": "2026-02-22 16:18:29 -0600"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/spruce": {
+    "criteria": {
+      "has_spruce": "2026-02-22 16:18:29 -0600"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/end": {
+    "criteria": {
+      "has_end_brick": "2026-02-22 16:18:29 -0600"
+    },
+    "done": true
+  },
+  "create_connected:root": {
+    "criteria": {
+      "0": "2026-02-22 16:18:29 -0600"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/mud_brick": {
+    "criteria": {
+      "has_qq": "2026-02-22 16:18:29 -0600"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/blackstone": {
+    "criteria": {
+      "has_blackstone": "2026-02-22 16:18:29 -0600"
+    },
+    "done": true
+  },
+  "farm_and_charm:main/root": {
+    "criteria": {
+      "example_criterion": "2026-02-22 16:18:30 -0600"
+    },
+    "done": true
+  },
+  "trainutilities:platform_block": {
+    "criteria": {
+      "0": "2026-02-22 16:18:29 -0600"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/deepslate": {
+    "criteria": {
+      "has_deepslate": "2026-02-22 16:18:29 -0600"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2026-02-22 16:18:29 -0600"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:windswept_gravelly_hills": "2026-02-22 16:18:44 -0600"
+    },
+    "done": false
+  },
+  "DataVersion": 3955
+}

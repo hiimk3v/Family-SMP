@@ -1,0 +1,27 @@
+{
+  "id": "example",
+  "name": "Example Pack",
+  "version": "1.0.1",
+  "author": "Sarocesch",
+
+  "signs": [
+    { "id": "danger", "displayName": "Danger", "shape": "TRIANGLE", "texture": "textures/danger.png",
+      "text_enabled": false },
+
+    { "id": "speed_limit_50", "displayName": "Speed Limit 50", "shape": "ROUND", "texture": "textures/speed_50.png",
+      "text_enabled": false },
+
+    { "id": "square_sample", "displayName": "Square sample + Text Sample", "shape": "OTHER", "texture": "textures/square_sample.png",
+      "text_enabled": true, "text_h_align": "CENTER", "text_v_align": "CENTER", "text_offset_x": 0.0, "text_offset_y": 0.0, "text_size": 3.0 },
+
+    { "id": "rectangle_sample", "displayName": "Rectangle sample", "shape": "RECTANGLE", "texture": "textures/rectangle_sample.png",
+      "text_enabled": false },
+
+    { "id": "diamond_sample", "displayName": "Diamond sample", "shape": "DIAMOND", "texture": "textures/diamond_sample.png",
+      "text_enabled": false },
+
+    { "id": "diamond_sample_custom", "displayName": "Diamond sample Custom Shape", "shape": "CUSTOM", "texture": "textures/diamond_sample.png",
+      "text_enabled": false }
+  ]
+}
+
