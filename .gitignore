@@ -7,8 +7,8 @@ data/
 datapacks/
 Distant_Horizons_server_data/
 downloads/
-dynamic-state-pack-cache/
-dynamic-resources-pack-cache/
+dynamic-data-pack-cache/
+dynamic-resource-pack-cache/
 ESM/
 immersive_paintings_cache/
 logs/
