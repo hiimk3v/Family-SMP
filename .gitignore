@@ -28,6 +28,6 @@ emi.json
 fabricloader.log
 options.txt
 servers.dat
-servers.dat.old
+servers.dat_old
 usercache.json
 usernamecache.json
